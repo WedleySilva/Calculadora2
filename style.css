@@ -1,0 +1,14 @@
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.calculadora2{
+    border: 1px rgb(22, 16, 56);
+    border-radius: 8px;
+    width: 330px;
+}
+
+body{
+    background-color: #EB97A0;
+}
